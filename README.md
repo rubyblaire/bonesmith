@@ -101,7 +101,9 @@ Recommended order:
 
 ## Support
 For bug reports, support, or feedback:
+
 Discord: https://discord.gg/Dr836dmbqh
+
 Ko-fi: https://ko-fi.com/rubyblaire
 
 ## Credits
