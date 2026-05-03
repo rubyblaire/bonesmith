@@ -113,3 +113,9 @@ BoneSmith is a Ruby Blaire plugin made for players who want cleaner, safer, and 
 ## Disclaimer
 BoneSmith is an independent plugin and is not affiliated with Square Enix.
 Use plugins responsibly and in accordance with Dalamud, Final Fantasy XIV, and third-party tool community guidelines.
+
+## License
+
+BoneSmith is licensed under the MIT License.
+
+See the `LICENSE` file for details.
