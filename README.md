@@ -49,12 +49,8 @@ The Home tab shows a quick status overview, including:
 ### Settings
 The Settings tab includes plugin information, safety notes, and quick links for support.
 
-## Commands
-`/bonesmith`
-
-Opens the BoneSmith window.
-
 ## Installation
+https://raw.githubusercontent.com/rubyblaire/bonesmith/refs/heads/main/pluginmaster.json
 1. Install BoneSmith through your Dalamud custom plugin repository.
 2. Make sure Customize+ is installed and configured.
 3. Open BoneSmith with `/bonesmith`.
