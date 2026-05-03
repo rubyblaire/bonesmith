@@ -1,8 +1,8 @@
 # BoneSmith
 
-**BoneSmith** is a lightweight companion plugin for **Customize+** that lets you apply saved profiles, manage referenced templates, and safely release active changes without rewriting or replacing your Customize+ data.
+**BoneSmith** is a lightweight companion plugin for **Customize+** that lets you apply locally saved profiles, manage referenced templates, and safely release active changes without rewriting or replacing your Customize+ data.
 
-BoneSmith is designed to give users more control over how their existing Customize+ profiles are applied at runtime, especially when a profile references multiple templates and you only want some of them active.
+BoneSmith is designed to give users a way to have a local backup for Customize+ when Customize+ is down. It is not designed to modify profiles or templates. It is not designed to sync through any sync service (PlayerSync/Snowcloak), and it is not designed to replace Customize+.
 
 ## What BoneSmith Does
 BoneSmith helps you:
@@ -16,7 +16,7 @@ BoneSmith helps you:
 - Recover from stuck or active selections
 - Keep Customize+ profile data intact
 
-BoneSmith does **not** create, edit, rewrite, or replace Customize+ profiles. It works with the data you already have.
+BoneSmith does **not** create, edit, rewrite, or replace Customize+ profiles (and never will). It works with the data you already have.
 
 ## Features
 ### Profile Selection
@@ -68,7 +68,7 @@ For example:
 - You want a simple release/reset flow when changing setups
 
 ## Important Notes
-BoneSmith works with Customize+ data, but it is not a replacement for Customize+.
+BoneSmith works with Customize+ data, but it is **not** a replacement for Customize+.
 BoneSmith does not permanently alter your Customize+ profiles.
 If you want to permanently edit a profile, do that inside Customize+.
 BoneSmith’s template toggles only affect how BoneSmith applies a selected profile.
@@ -102,9 +102,11 @@ Discord: https://discord.gg/Dr836dmbqh
 
 Ko-fi: https://ko-fi.com/rubyblaire
 
+**When submitting a bug report, please also include a snippet of the Advanced Diagnostics window.**
+
 ## Credits
 Created by **Ruby Blaire**.
-BoneSmith is a Ruby Blaire plugin made for players who want cleaner, safer, and more flexible control over their Customize+ profile workflow while Customize+ is down.
+BoneSmith is a Ruby Blaire plugin made for players who want cleaner, safer, and more flexible control over their Customize+ profile workflow (locally) while Customize+ is down.
 
 ## Disclaimer
 BoneSmith is an independent plugin and is not affiliated with Square Enix.
