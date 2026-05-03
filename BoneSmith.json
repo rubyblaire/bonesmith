@@ -1,0 +1,22 @@
+{
+  "Author": "Ruby Blaire",
+  "Name": "BoneSmith",
+  "InternalName": "BoneSmith",
+  "AssemblyVersion": "0.15.0.0",
+  "Description": "BoneSmith reads local Customize+ profiles, resolves linked templates internally, and provides a polished render-hook local-player apply flow with template toggles, Home status summaries, guided recovery controls, support links, orange tabs, obsidian title styling, and read-only Customize+ source handling.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "Customization",
+    "Appearance",
+    "Character",
+    "Profiles",
+    "CustomizePlus"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "A polished bridge for using local Customize+ profiles.",
+  "AcceptsFeedback": true
+}
