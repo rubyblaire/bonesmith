@@ -115,6 +115,7 @@ Use plugins responsibly and in accordance with Dalamud, Final Fantasy XIV, and t
 ## License
 
 **BoneSmith is licensed under the GNU Affero General Public License v3.0**.
+https://github.com/goatcorp/Dalamud/blob/master/LICENSE
 
 BoneSmith is a third-party Dalamud plugin and is not affiliated with, endorsed by, or maintained by goatcorp, XIVLauncher, Dalamud, Customize+, or Square Enix.
 
