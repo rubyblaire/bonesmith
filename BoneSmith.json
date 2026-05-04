@@ -2,7 +2,7 @@
   "Author": "Ruby Blaire",
   "Name": "BoneSmith",
   "InternalName": "BoneSmith",
-  "AssemblyVersion": "0.17.7.0",
+  "AssemblyVersion": "0.17.8.0",
   "Description": "BoneSmith reads local Customize+ profiles, resolves linked templates internally, and provides a polished apply flow with template toggles, recovery tools, and an experimental C+ provider sync path.",
   "ApplicableVersion": "any",
   "Tags": [
