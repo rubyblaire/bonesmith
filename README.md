@@ -2,7 +2,7 @@
 
 **BoneSmith** is a lightweight companion plugin for **Customize+** that lets you apply locally saved profiles, manage referenced templates, and safely release active changes without rewriting or replacing your Customize+ data.
 
-BoneSmith is designed to give users a way to have a local backup for Customize+ when Customize+ is down. It is not designed to modify profiles or templates. It is not designed to sync through any sync service (PlayerSync/Snowcloak), and it is not designed to replace Customize+.
+BoneSmith is designed to give users a way to have a local backup for Customize+ when Customize+ is down. It is not designed to modify profiles or templates. It is not designed to replace Customize+.
 
 ## What BoneSmith Does
 BoneSmith helps you:
@@ -114,6 +114,9 @@ Use plugins responsibly and in accordance with Dalamud, Final Fantasy XIV, and t
 
 ## License
 
-BoneSmith is licensed under the MIT License.
+**BoneSmith is licensed under the GNU Affero General Public License v3.0**.
+https://github.com/goatcorp/Dalamud/blob/master/LICENSE
 
-See the `LICENSE` file for details.
+BoneSmith is a third-party Dalamud plugin and is not affiliated with, endorsed by, or maintained by goatcorp, XIVLauncher, Dalamud, Customize+, or Square Enix.
+
+FINAL FANTASY XIV © SQUARE ENIX CO., LTD. All rights reserved.
