@@ -2,7 +2,7 @@
 
 **BoneSmith** is a lightweight companion plugin for **Customize+** that lets you apply locally saved profiles, manage referenced templates, and safely release active changes without rewriting or replacing your Customize+ data.
 
-BoneSmith is designed to give users a way to have a local backup for Customize+ when Customize+ is down. It is not designed to modify profiles or templates. It is not designed to sync through any sync service (PlayerSync/Snowcloak), and it is not designed to replace Customize+.
+BoneSmith is designed to give users a way to have a local backup for Customize+ when Customize+ is down. It is not designed to modify profiles or templates. It is not designed to replace Customize+.
 
 ## What BoneSmith Does
 BoneSmith helps you:
