@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v10.0": {
-      "BoneSmith/0.18.9.0": {
+      "BoneSmith/0.19.4.0": {
         "runtime": {
           "BoneSmith.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "BoneSmith/0.18.9.0": {
+    "BoneSmith/0.19.4.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
