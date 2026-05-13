@@ -2,8 +2,8 @@
   "Author": "Ruby Blaire",
   "Name": "BoneSmith",
   "InternalName": "BoneSmith",
-  "AssemblyVersion": "0.19.7.0",
-  "Description": "BoneSmith reads local Customize+ profiles, resolves linked templates internally, and provides a polished apply flow with template toggles, recovery tools, and an experimental C+ provider sync path.",
+  "AssemblyVersion": "0.40.0.0",
+  "Description": "BoneSmith is an alternative to Customize+, with a true smithing studio.",
   "ApplicableVersion": "any",
   "Tags": [
     "Customization",
@@ -17,6 +17,6 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "Punchline": "Apply Customize+ profiles with runtime template control.",
+  "Punchline": "An alternative to Customize+, with a true smithing studio.",
   "AcceptsFeedback": true
 }
