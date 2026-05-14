@@ -19,4 +19,5 @@
   "LoadPriority": 0,
   "Punchline": "An alternative to Customize+, with a true smithing studio.",
   "AcceptsFeedback": true
+  "IconUrl": "https://raw.githubusercontent.com/rubyblaire/BoneSmith/main/images/icon.png"
 }
